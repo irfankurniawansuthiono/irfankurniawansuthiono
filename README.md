@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/suthiono_irfan" target="blank"><img src="https://img.shields.io/twitter/follow/suthiono_irfan?logo=twitter&style=for-the-badge" alt="suthiono_irfan" /></a> </p>
 
-- 🔭 I’m currently working on [NanamiGPT](https://nanami.irfanks.site)
+- 🔭 I’m currently working on [#](#)
 
 - 🌱 I’m currently learning **NextJS,**
 
-- 👯 I’m looking to collaborate on [NanamiGPT](https://nanami.irfanks.site)
+- 👯 I’m looking to collaborate on [#](#)
 
-- 🤝 I’m looking for help with [NanamiGPT](https://nanami.irfanks.site)
+- 🤝 I’m looking for help with [#](#)
 
 - 👨‍💻 All of my projects are available at [https://irfanks.site](https://irfanks.site)
 
