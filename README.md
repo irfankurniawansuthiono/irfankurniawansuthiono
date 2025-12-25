@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [#](#)
 
-- 👨‍💻 All of my projects are available at [https://irfanks.site](https://irfanks.site)
+- 👨‍💻 All of my projects are available at [https://ipanks.site](https://irfanks.site)
 
 - 💬 Ask me about **Nextjs, GSAP, Framer Motion, Java, Typescript, etc**
 
