@@ -68,14 +68,11 @@
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfankurniawansuthiono&theme=dracula&hide_border=false" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfankurniawansuthiono&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ###
 
 <img src="https://raw.githubusercontent.com/irfankurniawansuthiono /irfankurniawansuthiono /output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfankurniawansuthiono&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 ###
