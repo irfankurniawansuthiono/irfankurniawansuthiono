@@ -59,14 +59,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/9vga5kv0o2pfzj2v7hjfvf3fc">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=9vga5kv0o2pfzj2v7hjfvf3fc&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfankurniawansuthiono&theme=dracula&hide_border=false" align="left" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfankurniawansuthiono&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
