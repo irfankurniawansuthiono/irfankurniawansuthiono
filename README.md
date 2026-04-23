@@ -1,17 +1,87 @@
-<h1 align="center"><img src="https://slackmojis.com/emojis/13387-gokurun/download" width="35"> <b>Hello Hello! I'm Irfan Kurniawan Suthiono </b></h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&text=Hey%20%F0%9F%91%8BWhat's%20Up?%20&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
-<div align="center"><img alt="pikachu" src="https://media.tenor.com/rbx3ph5SLRUAAAAi/pikachu-pokemon.gif" /></div> <br/><br/> <h2><img src="https://slackmojis.com/emojis/10254-pepe_naruto/download" width="20"> <b>About Me<b/></h2>
-    <p>I enjoy building small-to-medium projects (bots, upload tools, web apps) and contributing to upstream open-source projects. Recent work blends TypeScript + Next.js + tooling, with experiments in Rust and UI integrations.</p>
+###
 
-<h2><img src="https://slackmojis.com/emojis/37554-charmander/download" width="30"> <b>Socials<b/></h2>
+<h2 align="center">Irfan Kurniawan Suthiono<br>A passionate FullStack developer from Indonesia</h2>
 
-[![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/irfankurniawansuthiono) [![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ irfankurniawans) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/irfan_suthiono)
+###
 
-<h2><img src="https://slackmojis.com/emojis/76421-anime_itachiakatsuki/download" width="30" /> <b>Tech Stack<b/></h2>
+<h5 align="left">I enjoy building small-to-medium projects (bots, upload tools, web apps) and contributing to upstream open-source projects. Recent work blends TypeScript + Next.js + tooling.</h5>
 
-![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express.js&logoColor=white) ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) ![](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) ![](https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=Next.js&logoColor=white) ![](https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white) ![](https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=CSS&logoColor=white) ![](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white) ![](https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white) ![](https://img.shields.io/badge/Shadcn-000000?style=flat-square&logo=shadcn/ui&logoColor=white) ![](https://img.shields.io/badge/Materialui-007FFF?style=flat-square&logo=MaterialUI&logoColor=white) ![](https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Postgresql-336791?style=flat-square&logo=PostgreSQL&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white) ![](https://img.shields.io/badge/Reactnative-61DAFB?style=flat-square&logo=ReactNative&logoColor=white)
+###
 
-<h2><img src="https://slackmojis.com/emojis/78855-pepe_narutoq/download" width="30" /> <b>Github Stats<b/></h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="60" alt="nginx logo"  />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=irfankurniawansuthiono&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" align="left" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfankurniawansuthiono&theme=dracula&hide_border=false" align="left" />
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/irfankurniawans" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://discordapp.com/users/411125001853468672" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://instagram.com/ipanks69" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=irfankurniawansuthiono .irfankurniawansuthiono &left_text=Profile%20Views"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/9vga5kv0o2pfzj2v7hjfvf3fc">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=9vga5kv0o2pfzj2v7hjfvf3fc&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=irfankurniawansuthiono &locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/irfankurniawansuthiono /irfankurniawansuthiono /output/snake.svg" alt="Snake animation" />
+
+###
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfankurniawansuthiono&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+###
