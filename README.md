@@ -59,12 +59,6 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=irfankurniawansuthiono .irfankurniawansuthiono &left_text=Profile%20Views"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://open.spotify.com/user/9vga5kv0o2pfzj2v7hjfvf3fc">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=9vga5kv0o2pfzj2v7hjfvf3fc&count=5&unique=true" alt="Spotify recently played"  />
   </a>
