@@ -15,11 +15,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=irfankurniawansuthiono&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" align="left" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfankurniawansuthiono&theme=dracula&hide_border=false" align="left" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfankurniawansuthiono&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
-<h2><img src="https://slackmojis.com/emojis/5851-crashdance/download" width="30"> <b>Github Trophies<b/></h2>
-
-![](https://github-profile-trophy.vercel.app/?username=irfankurniawansuthiono&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-<h2><img src="https://slackmojis.com/emojis/50155-vegeta-smile/download" width="30"> <b>Top Repositories<b/></h2>
-
-![](https://github-contributor-stats.vercel.app/api?username=irfankurniawansuthiono&limit=5&theme=dracula&combine_all_yearly_contributions=true)
